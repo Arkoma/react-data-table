@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import CanceledGrid from './components/dataGrid/DataGrid';
+import DataGrid from './components/dataGrid/DataGrid';
 
 const App = () => (
     <div className="app-container">
-        <CanceledGrid />
+        <DataGrid />
     </div>
 )
 
